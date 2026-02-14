@@ -5,10 +5,10 @@
 
 #SKILLS I;M BUILDING
 -Git and Github
--Video editing,python,java script and basic hacking
+-Video editing,python,java script and ethical hacking
 
 ##CURRENT PROJECTS
--[     ](LINK)
+-Hacking via phone calls
 
 ##HOW TO REEACH ME
 -Email:skylaxglowfire@gmail.com
