@@ -2,7 +2,7 @@
 ###This semester
 headind ate the **most** importanta parts of a sentence it *help the reader *know what exactly the are reading.`identification`
 ####links
-[browser](https://github.com/luna256-sky/luna.git) or [browser](https://www.markdownguide.org)
+[browser](https://github.com/luna256-sky/luna/main/markdown-practice.md) or [browser](https://www.markdownguide.org)
 
 #####things i want to learn
 -python
