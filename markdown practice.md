@@ -1,7 +1,10 @@
 README.md
+
 ##My heading goals
 ###This semester
+
 Headings are the **most** important parts of a sentence it *help the reader *know what exactly they are reading.`identification`
+
 ####links
 [browser](https://github.com/luna256-sky/luna/main/markdown-practice.md) or [browser](https://www.markdownguide.org)
 
