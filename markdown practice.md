@@ -44,11 +44,11 @@ annoyed,who wouldn't be, but l eventually got used to it and often just left the
 I like -drawing
        -dancing
        -singing
->I hate crowded places or being the center of attention
 I find the computer language being intreresting especially python
 ```python
 print("Today is a great day!")
 ```
 can not wait to learn more about it.
+>Hate croweded places
 
 
