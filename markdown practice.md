@@ -1,40 +1,42 @@
 ##My heading goals
 ###This semester
-headind ate the **most** importanta parts of a sentence it *help the reader *know what exactly the are reading.`identification`
+Headings are the **most** important parts of a sentence it *help the reader *know what exactly they are reading.`identification`
 ####links
 [browser](https://github.com/luna256-sky/luna/main/markdown-practice.md) or [browser](https://www.markdownguide.org)
 
-#####things i want to learn
+###THings i want to learn
 -python
 -java script
 c++
 
-######how to make a commit in git
+##How to make a commit in git
 1 step one scroll down to the end of ur code
 2 step two write ur commit message
    for example commit-m"add margin to nav itrms to prevent overlap with logo"
 3 step three clik commit changes
 
 
-|#tool         |#purpose                                 |#links                             |
+|#Tool         |#Purpose                                 |#Links                             |
 |-----------   |---------------------------------------  |-----------------------------------|-
 |fork          |creating your own repository of someone  | https://fork.com                  |
                |else repository on github                |
 |--------------|-----------------------------------------|-----------------------------------|
 |git extensions |provides a shall extension,a visual code | https://github.extension.github.io| 
 
+##Task list of my goals
 [*]create a github account
 [*]create my first repository
 [ ]learn to use visual structural code
 [ ]learn java script
 
+##Code block
 ```python
 ptint("Hello,world!")
 ```
 
 >the grass on the other side may be greener becouse it is fake
 
-"About Me"
+##"About Me"
 #Luna
 I am a fast leaner.Picking up concepts that are often described as **difficult** has always been easy for me
 but the schocking thing is basic concepts often considereed as *simple*I find challenging. At first l was
