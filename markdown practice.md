@@ -16,6 +16,7 @@ c++
 3 step three clik commit changes
 
 
+##Table
 |#Tool         |#Purpose                                 |#Links                             |
 |-----------   |---------------------------------------  |-----------------------------------|-
 |fork          |creating your own repository of someone  | https://fork.com                  |
@@ -34,7 +35,7 @@ c++
 ptint("Hello,world!")
 ```
 
->the grass on the other side may be greener becouse it is fake
+>the grass on the other side may be greener because it is fake
 
 ##"About Me"
 #Luna
